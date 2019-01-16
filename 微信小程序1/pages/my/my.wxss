@@ -1,0 +1,13 @@
+/* pages/my/my.wxss */
+.list{
+  display: flex;
+  height: 100px;
+  flex-direction: row;
+  font-size: 0.8rem;
+}
+.list2{
+  flex-direction: column;
+  flex-grow: 1;
+  border: 5rpx solid #eee;
+  margin-top: 150rpx;
+}

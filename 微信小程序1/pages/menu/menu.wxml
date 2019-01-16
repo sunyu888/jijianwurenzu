@@ -1,0 +1,61 @@
+<!--pages/menu/menu.wxml-->
+<view class="list">
+   <view class="list1">
+     图片
+   </view>
+   <view class="list2">
+     <view class="list3">
+      <view>正新特色鸡排</view>
+      <view>+</view>
+     </view>
+    <view class="list4">￥12</view>
+   </view>
+ </view>
+<view class="list">
+  <view class="list1">
+  图片
+  </view>
+  <view class="list2">
+    <view class="list3">
+      <view>奥尔良汉堡</view>
+      <view>+</view>
+    </view>
+    <view class="list4">￥7.9</view>
+  </view>
+</view>
+<view class="list">
+  <view class="list1">
+  图片
+  </view>
+  <view class="list2">
+    <view class="list3">
+      <view>黄金鸡肉堡</view>
+      <view>+</view>
+    </view>
+    <view class="list4">￥7.9</view>
+  </view>
+</view>
+<view class="list">
+  <view class="list1">
+  图片
+  </view>
+  <view class="list2">
+    <view class="list3">
+      <view>香辣鸡腿堡</view>
+      <view>+</view>
+    </view>
+    <view class="list4">￥7.9</view>
+  </view>
+</view>
+<view class="list">
+  <view class="list1">
+  图片
+  </view>
+  <view class="list2">
+    <view class="list3">
+      <view>番茄酱</view>
+      <view>+</view>
+    </view>
+    <view class="list4">￥0.99</view>
+  </view>
+</view>

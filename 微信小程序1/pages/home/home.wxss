@@ -1,0 +1,26 @@
+/* pages/home/home.wxss */
+.list{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30rpx;
+  font-size: 0.8rem;
+}
+.list1{
+  width: 200rpx;
+  flex-shrink: 0;
+  height: 100%;
+  border: 1rpx solid #eee;
+}
+.list2{
+  flex-grow: 1;
+  border: 1rpx solid #eee;
+  padding: 10rpx;
+}
+.list3{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.list4{
+  margin-top: 30rpx;
+}
